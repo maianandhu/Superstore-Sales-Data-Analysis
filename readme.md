@@ -133,5 +133,3 @@ The notebook includes:
 📅 Date: September 2025
 
 ---
-
-👉 Do you want me to **export this into a ready-to-use `README.md` file** so you can upload directly to GitHub?
