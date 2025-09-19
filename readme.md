@@ -35,39 +35,39 @@ It contains **9,994 rows × 21 columns** with the following details:
 
 1. Which **category** generates the highest sales and profit?
 
-   ![alt text](1-1.png)
+   ![alt text](1.png)
 
 
 2. Analyze sales based on product categories and determine which category has
 
-   ![alt text](2-1.png)
+   ![alt text](2.png)
 
 
 3. The sales analysis needs to be done based on sub-categories.
 
-   ![alt text](3-1.png)
+   ![alt text](3.png)
 
 
 4. You need to analyze the monthly profit from sales and determine which month had the
 highest profit.
 
-   ![alt text](4-1.png)
+   ![alt text](4.png)
 
 
 5. Analyze the profit by category and sub-category.
 
 
-![alt text](5-1.png)
-   ![alt text](5.1-1.png)
+![alt text](5.png)
+   ![alt text](5.1.png)
 
 6. Analyze the sales and profit by customer segment
 
-![alt text](6-1.png)
+![alt text](6.png)
 
 
 7. Analyze the sales to profit ratio
 
-![alt text](7-1.png)
+![alt text](7.png)
 ---
 
 
